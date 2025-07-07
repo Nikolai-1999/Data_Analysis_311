@@ -1,5 +1,6 @@
 # Data_Analysis_311
 A Project for University
+
 Dieses Projekt hat das Ziel, mithilfe von Natural Language Processing (NLP) Bürgerbeschwerden
 nach Häufigkeit zu analysieren, um den kommunalen Entscheidungsprozess bei der Priorisierung
 aktueller Beschwerden zu unterstützen.
